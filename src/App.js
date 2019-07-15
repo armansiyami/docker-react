@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            update 1.3
+            I was changed on feature
         </p>
         <a
           className="App-link"
